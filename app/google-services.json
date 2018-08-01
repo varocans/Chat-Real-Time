@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922845294733",
+    "firebase_url": "https://chatrealtime-b06fe.firebaseio.com",
+    "project_id": "chatrealtime-b06fe",
+    "storage_bucket": "chatrealtime-b06fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922845294733:android:1885f2166e71d1e4",
+        "android_client_info": {
+          "package_name": "com.example.asus.chatrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922845294733-qigidt0mudu4g0u4rlnvsaeu77e5gcvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.chatrealtime",
+            "certificate_hash": "f6fb92daf2f60a94afc4d3f9896c30323c30c069"
+          }
+        },
+        {
+          "client_id": "922845294733-uvel2je3b4qgf2vlngcu4te2gv81aflg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcR5-IiL-NIkWLMWx5a4JxVUsxGGoIfsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922845294733-uvel2je3b4qgf2vlngcu4te2gv81aflg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
